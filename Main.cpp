@@ -1,3 +1,8 @@
+//Universidad Nacional
+//Proyecto 1: Hospital Esperanza
+//Joseph Araya Moore
+//Programacion 1 
+
 #include <iostream>
 #include "Pabellon.h"
 #include "Especialidad.h"
